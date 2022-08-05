@@ -5,8 +5,16 @@
 <h3 align="center">
 Hi, I'm CrazyCloudCraft a Minecraft Server project.
 </h3>
+<p align="center">
+    <a>And I create useful things for you and me.</a>
+</p>
+<h3 align="center">
+Projects I'm working on
+</h3>
+  
+---
 
-And I create useful things for you and all other people out there.
+
 
 <!--
 Code formattings:
