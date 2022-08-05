@@ -1,16 +1,46 @@
-### Hi there 👋
+<p align="center">
+    <a href="https://crazycloudcraft.de/">
+    <img src="https://crazycloudcraft.de/wp-content/uploads/2021/04/cropped-crazycloudcraft-icon-server.png" width="150">
+</a>
+<h3 align="center">
+Hi, I'm CrazyCloudCraft a Minecraft Server project.
+</h3>
+
+And I create useful things for you and all other people out there.
 
 <!--
-**CrazyCloudCraft/CrazyCloudCraft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Code formattings:
 
-Here are some ideas to get you started:
+Little Text in the center:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<p align="center">
+  <a>The text</a>
+</p>
+
+Titles in different size (center)
+
+<h3 align="center">
+Hi, i'm a Title
+</h3>
+
+Pictures with link
+
+<p align="center">
+    <a href="https://my.link/">
+    <img src="https://pic.ture/pic.png" />
+</a>
+
+Pictures without link
+
+<p align="center">
+    <img src="https://pic.ture/pic.png" />
+</p>
+
+Pictures with width
+
+<p align="center">
+    <img src="https://pic.ture/pic.png" width="150">
+</p>
+
+
 -->
