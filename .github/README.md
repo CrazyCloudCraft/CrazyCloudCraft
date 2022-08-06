@@ -3,7 +3,7 @@
     <img src="https://crazycloudcraft.de/wp-content/uploads/2021/04/cropped-crazycloudcraft-icon-server.png" width="150">
 </a>
 <h3 align="center">
-Hi, I'm CrazyCloudCraft a Minecraft Server project.
+Hi, I'm CrazyCloudCraft a Minecraft server project.
 </h3>
 <p align="center">
     <a>And I create useful things for you and me.</a>
