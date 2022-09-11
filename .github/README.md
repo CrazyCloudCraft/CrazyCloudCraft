@@ -8,6 +8,13 @@ Hi, I'm CrazyCloudCraft a Minecraft server project.
 <p align="center">
     <a>And I create useful things for you and me.</a>
 </p>
+<p align="center">
+    <a>🔴 = Busy</a>
+    <a>🟢 = Free for new work</a>
+    <a>🔵 = Working</a>
+    <a>⚫ = Unkown</a>
+</p>
+
 <h3 align="center">
 Projects I'm working on
 </h3>
