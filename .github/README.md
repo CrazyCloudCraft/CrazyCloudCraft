@@ -1,11 +1,9 @@
 <p align="side">
-    <a>🔴 = Busy</a>
+    <a>⚫ = Busy</a>
 <p align="side">
     <a>🟢 = Free for new work</a>
 <p align="side">
     <a>🔵 = Working</a>
-<p align="side">
-    <a>⚫ = Unkown</a>
 </p>
 <p align="center">
     <a href="https://crazycloudcraft.de/">
