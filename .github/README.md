@@ -1,7 +1,7 @@
 <p align="side">
     <a>⚫ = Offline</a>
 <p align="side">
-    <a>🟢 = Free for new work</a>
+    <a>🟢 = Online</a>
 <p align="side">
     <a>🔵 = Working</a>
 </p>
