@@ -1,3 +1,12 @@
+<p align="side">
+    <a>🔴 = Busy</a>
+<p align="side">
+    <a>🟢 = Free for new work</a>
+<p align="side">
+    <a>🔵 = Working</a>
+<p align="side">
+    <a>⚫ = Unkown</a>
+</p>
 <p align="center">
     <a href="https://crazycloudcraft.de/">
     <img src="https://crazycloudcraft.de/wp-content/uploads/2021/04/cropped-crazycloudcraft-icon-server.png" width="150">
@@ -8,13 +17,6 @@ Hi, I'm CrazyCloudCraft a Minecraft server project.
 <p align="center">
     <a>And I create useful things for you and me.</a>
 </p>
-<p align="center">
-    <a>🔴 = Busy,</a>
-    <a>🟢 = Free for new work,</a>
-    <a>🔵 = Working,</a>
-    <a>⚫ = Unkown,</a>
-</p>
-
 <h3 align="center">
 Projects I'm working on
 </h3>
