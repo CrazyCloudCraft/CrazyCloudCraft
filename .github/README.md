@@ -1,5 +1,5 @@
 <p align="side">
-    <a>⚫ = Busy</a>
+    <a>⚫ = Offline</a>
 <p align="side">
     <a>🟢 = Free for new work</a>
 <p align="side">
