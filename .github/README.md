@@ -9,10 +9,10 @@ Hi, I'm CrazyCloudCraft a Minecraft server project.
     <a>And I create useful things for you and me.</a>
 </p>
 <p align="center">
-    <a>🔴 = Busy</a>
-    <a>🟢 = Free for new work</a>
-    <a>🔵 = Working</a>
-    <a>⚫ = Unkown</a>
+    <a>🔴 = Busy,</a>
+    <a>🟢 = Free for new work,</a>
+    <a>🔵 = Working,</a>
+    <a>⚫ = Unkown,</a>
 </p>
 
 <h3 align="center">
