@@ -9,7 +9,7 @@ Hi, I'm CrazyCloudCraft a Minecraft server project.
     <a>And I create useful things for you and me.</a>
 </p>
 <h3 align="center">
-Projects I'm working on
+Projects I'm working on in my free time
 </h3>
   
 ---
