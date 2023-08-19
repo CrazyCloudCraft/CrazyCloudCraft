@@ -1,6 +1,6 @@
 <p align="center">
     <a href="https://crazycloudcraft.de/">
-    <img src="https://crazycloudcraft.de/wp-content/uploads/2021/04/crazycloudcraft-icon-server.png" width="150">
+    <img src="https://avatars.githubusercontent.com/u/95505222?v=4" width="150">
 </a>
 <h3 align="center">
 Hi, I'm CrazyCloudCraft a Minecraft server project.
