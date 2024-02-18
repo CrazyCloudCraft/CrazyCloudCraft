@@ -44,6 +44,11 @@ Pictures without link
     <img src="https://pic.ture/pic.png" />
 </p>
 
+Put everything in the center
+
+<div align="center">
+</div>
+
 Pictures with width
 
 <p align="center">
