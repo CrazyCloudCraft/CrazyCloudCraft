@@ -1,20 +1,21 @@
+<div align="center" >
+    
+
 <p align="center">
     <a href="https://crazycloudcraft.de/">
     <img src="https://avatars.githubusercontent.com/u/95505222?v=4" width="150">
 </a>
 <h3 align="center">
-Hi, I'm CrazyCloudCraft a Minecraft server project.
+Hi, I'm Niklas
 </h3>
 <p align="center">
     <a>And I create useful things for you and me.</a>
 </p>
-<h3 align="center">
-Projects I'm working on in my free time
-</h3>
-  
----
 
+<img src="https://github-readme-stats.vercel.app/api?username=crazycloudcraft&show_icons=true&count_private=true&theme=transparent" /><br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=crazycloudcraft&layout=donut&theme=transparent" />
 
+</div>
 
 <!--
 Code formattings:
