@@ -11,10 +11,10 @@ Hi, I'm Niklas
 <p align="center">
     <a>And I create useful things for you and me.</a>
 </p>
-
+<!--
 <img src="https://github-readme-stats.vercel.app/api?username=crazycloudcraft&show_icons=true&count_private=true&theme=transparent" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=crazycloudcraft&layout=donut&theme=transparent" />
-
+-->
 </div>
 
 <!--
