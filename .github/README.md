@@ -5,12 +5,6 @@
     <a href="https://crazycloudcraft.de/">
     <img src="https://avatars.githubusercontent.com/u/95505222?v=4" width="150">
 </a>
-<h3 align="center">
-Hi, I'm Niklas
-</h3>
-<p align="center">
-    <a>And I create useful things for you and me.</a>
-</p>
 <!--
 <img src="https://github-readme-stats.vercel.app/api?username=crazycloudcraft&show_icons=true&count_private=true&theme=transparent" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=crazycloudcraft&layout=donut&theme=transparent" />
